@@ -4,7 +4,7 @@ This project is part of my FreeCodeCamp exercises, where I created a CSS-styled 
 
 ## Demo
 
-![Penguin Preview](file:///C:/Users/David/OneDrive/Documentos/FreeCodeCamp/Building_a_Penguin/index.html)
+file:///C:/Users/David/OneDrive/Documentos/FreeCodeCamp/Building_a_Penguin/index.html
 
 ## Technologies Used
 
